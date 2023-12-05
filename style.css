@@ -1,5 +1,9 @@
 body{
     height: auto;
     min-height: fit-content;
+ 
     list-style: armenian;
+ 
+    nav-down: auto;
+ 
 }
